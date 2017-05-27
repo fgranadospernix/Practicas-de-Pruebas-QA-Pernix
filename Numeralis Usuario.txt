@@ -1,0 +1,9 @@
+Username:
+Password:
+
+incluir varios tipos de test cases los unit test no los hacen qa en intel sino
+practicar terminos y no usar el teclado.
+
+1era entrevista tecnica 
+2da entrevista pruebas de algoritmos en codigo pseudocodigo
+
